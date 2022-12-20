@@ -1,0 +1,3 @@
+/home/nathanr/assignment-5-nathanredmond/build/CMakeFiles/mandel.dir
+/home/nathanr/assignment-5-nathanredmond/build/CMakeFiles/edit_cache.dir
+/home/nathanr/assignment-5-nathanredmond/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,1 @@
+/usr/bin/cc -rdynamic CMakeFiles/mandel.dir/mandel.c.o CMakeFiles/mandel.dir/bitmap.c.o -o mandel  -lpthread 
