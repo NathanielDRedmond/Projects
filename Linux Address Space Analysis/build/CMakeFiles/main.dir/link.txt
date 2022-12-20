@@ -1,0 +1,1 @@
+/usr/bin/cc  -Wall -std=c99 -rdynamic CMakeFiles/main.dir/main.c.o CMakeFiles/main.dir/segments.c.o -o main 
