@@ -1,0 +1,1 @@
+/usr/bin/cc  -std=c99 -Wall -rdynamic CMakeFiles/shell.dir/main.c.o CMakeFiles/shell.dir/shell.c.o -o shell 
