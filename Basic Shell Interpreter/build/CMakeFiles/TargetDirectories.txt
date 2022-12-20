@@ -1,0 +1,4 @@
+/home/nathanr/assignment-2-nathanredmond/build/CMakeFiles/shell.dir
+/home/nathanr/assignment-2-nathanredmond/build/CMakeFiles/test.dir
+/home/nathanr/assignment-2-nathanredmond/build/CMakeFiles/edit_cache.dir
+/home/nathanr/assignment-2-nathanredmond/build/CMakeFiles/rebuild_cache.dir
