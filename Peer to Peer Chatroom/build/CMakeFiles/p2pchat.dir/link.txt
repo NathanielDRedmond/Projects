@@ -1,0 +1,1 @@
+/usr/bin/cc -rdynamic CMakeFiles/p2pchat.dir/p2pchat.c.o CMakeFiles/p2pchat.dir/ui.c.o -o p2pchat  -lpthread -lform -lncurses 

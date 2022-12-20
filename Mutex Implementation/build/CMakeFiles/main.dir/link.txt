@@ -1,0 +1,1 @@
+/usr/bin/cc  -std=gnu99 -Wall -rdynamic CMakeFiles/main.dir/main.c.o CMakeFiles/main.dir/simple_mutex.c.o -o main  -lpthread 
